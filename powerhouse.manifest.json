@@ -1,0 +1,22 @@
+{
+  "name": "RWA-reporting",
+  "description": "The RWA Portfolio Reporting Packages provides a comprehensive overview of the Real-World Assets (RWA) held within the ecosystem. It details asset composition, performance, risk assessments, and governance considerations, ensuring transparency and informed decision-making for stakeholders. The report helps track the financial health, stability, and strategic direction of RWA investments. ",
+  "category": "Finance",
+  "publisher": {
+    "name": "Powerhouse",
+    "url": "https://www.powerhouse.inc/"
+  },
+  "documentModels": [
+    {
+      "id": "powerhouse/rwa-reporting",
+      "name": "RWA-reporting"
+    }
+  ],
+  "editors": [
+    {
+      "id": "powerhouse/rwa-reporting",
+      "name": "RWA-reporting",
+      "documentTypes": ["powerhouse/rwa-reporting"]
+    }
+  ]
+}
