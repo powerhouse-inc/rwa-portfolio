@@ -11,10 +11,16 @@ NPM handle: @sky-ph/rwa-portfolio
 
 ## How to install this package in a local version of Connect?
 
+Clone the repository and install the dependencies
+
+```bash
+npm install
+```
+
 If you want to explore this package locally you can clone this repository and run a local version of connect with the following command: 
 
 ```bash
 npm run connect
 ```
 
-You will then find the document models and editors that are part of this package below to test in Connect Studio. 
+You will now find the document models and editors that are part of this package at the bottom of the connect interface an be able to test them in Connect Studio. 
