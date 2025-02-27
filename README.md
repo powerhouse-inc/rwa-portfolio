@@ -17,6 +17,13 @@ Clone the repository and install the dependencies
 npm install
 ```
 
+Generate the reducer files based of the document model schema
+```bash
+npm run generate
+```
+
+Start connect: npm run connect
+
 If you want to explore this package locally you can clone this repository and run a local version of connect with the following command: 
 
 ```bash
