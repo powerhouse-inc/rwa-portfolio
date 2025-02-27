@@ -17,4 +17,4 @@ If you want to explore this package locally you can clone this repository and ru
 npm run connect
 ```
 
-You will then find the document models and editors that are part of this package below to test. 
+You will then find the document models and editors that are part of this package below to test in Connect Studio. 
